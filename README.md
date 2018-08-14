@@ -7,3 +7,4 @@ All the session notes and resources are organized under with the date, session n
 |Date|Session|Topic|Link to resources|
 |---|---|---|---|
 |8th August|Orientation|Orientation for the Academic Year 2018-2019|[Orientation](Orientation/README.md)|
+|9th August|Session 1|Introduction to Linux ([Ubuntu](https://ubuntu.com)), Basics on using the Terminal|[Session 1](Session_1/README.md)|
